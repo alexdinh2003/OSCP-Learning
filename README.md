@@ -34,7 +34,7 @@ Focus areas:
 - Active Directory concepts
 - Red team and offensive security paths
 
-- ## Concepts Practiced
+## Concepts Practiced
 
 Based on the OSCP-like machines completed, my preparation has covered a wide range of offensive security concepts relevant to the PEN-200 / OSCP exam.
 
